@@ -1,3 +1,6 @@
 venv/
 songs/
 separated/
+.idea/
+results.xlsx
+~$results.xlsx
